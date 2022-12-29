@@ -1,4 +1,5 @@
-this is a fork of bloom for experimenting with threshold execution cores.
+WIP
+This is a fork of bloom for experimenting with threshold execution cores. 
 
 Generate text using distributed BLOOM and fine-tune it for your own tasks:
 
