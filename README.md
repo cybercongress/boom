@@ -1,8 +1,4 @@
-<p align="center">
-    <img src="https://i.imgur.com/7eR7Pan.png" width="400"><br>
-    Run 100B+ language models at home, BitTorrent-style.<br>
-    Fine-tuning and inference up to 10x faster than offloading<br><br>
-</p>
+this is a fork of bloom for experimenting with threshold execution cores.
 
 Generate text using distributed BLOOM and fine-tune it for your own tasks:
 
